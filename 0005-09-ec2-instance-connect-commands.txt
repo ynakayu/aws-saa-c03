@@ -1,0 +1,2 @@
+sudo su -
+echo SSH test done! > /var/www/html/index.html
