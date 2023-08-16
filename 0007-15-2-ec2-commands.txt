@@ -1,0 +1,3 @@
+sudo su -
+echo "test-for-ami" > /var/www/html/index.html
+exit
