@@ -1,0 +1,7 @@
+mkdir efs
+df -h -T
+sudo touch efs/test.txt
+ll efs
+sudo rm efs/test.txt
+sudo umount efs
+sudo touch efs/test2.txt
